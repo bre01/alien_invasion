@@ -5,13 +5,13 @@ $ python -m venv v
 then activate it by:
 linux:
 ```
-$source v/bin/activate
+source v/bin/activate
 ```
 Windows(powershell 7):
 ```
-$ v\script\activate
+v\script\activate
 ```
 then install packages:
 ```
-$ pip install -r requirements.txt
+pip install -r requirements.txt
 ```
