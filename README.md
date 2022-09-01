@@ -9,7 +9,7 @@ source v/bin/activate
 ```
 Windows(powershell 7):
 ```
-v\script\activate
+.\v\script\activate
 ```
 then install packages:
 ```
