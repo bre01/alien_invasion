@@ -1,10 +1,14 @@
 # alien_invasion
 alien invasion from Python crash course.
+
 I suggest creat a virtual environment named 'v' by entering:
+
 ```
 python -m venv v
 ```
 then activate it by:
+
+
 linux:
 ```
 source v/bin/activate
